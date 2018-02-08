@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>DevOps Windows</title>
+		<link>http://devopswindows.com/</link>
+		<description>Welcome!</description>
+		<copyright>2018</copyright>
+		<pubDate>Thu, 08 Feb 2018 20:35:12 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Feb 2018 20:35:12 GMT</lastBuildDate>
+		<item>
+			<title>Fourth Post</title>
+			<link>http://devopswindows.com/posts/fourth-post</link>
+			<description>&lt;p&gt;This is my fourth post!&lt;/p&gt;</description>
+			<guid>http://devopswindows.com/posts/fourth-post</guid>
+			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my fourth post!&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Third Post</title>
+			<link>http://devopswindows.com/posts/third-post</link>
+			<description>&lt;p&gt;This is my third post!&lt;/p&gt;</description>
+			<guid>http://devopswindows.com/posts/third-post</guid>
+			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my third post!&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>First Post</title>
+			<link>http://devopswindows.com/posts/first-post</link>
+			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
+			<guid>http://devopswindows.com/posts/first-post</guid>
+			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Second Post</title>
+			<link>http://devopswindows.com/posts/second-post</link>
+			<description>&lt;p&gt;This is my second post!&lt;/p&gt;</description>
+			<guid>http://devopswindows.com/posts/second-post</guid>
+			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my second post!&lt;/p&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>

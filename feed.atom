@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="http://devopswindows.com/" />
+	<id>http://devopswindows.com/</id>
+	<title>DevOps Windows</title>
+	<rights>2018</rights>
+	<updated>2018-02-08T20:35:12Z</updated>
+	<subtitle>Welcome!</subtitle>
+	<entry>
+		<link href="http://devopswindows.com/posts/fourth-post" />
+		<id>http://devopswindows.com/posts/fourth-post</id>
+		<title>Fourth Post</title>
+		<updated>2016-01-01T00:00:00Z</updated>
+		<content>&lt;p&gt;This is my fourth post!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;This is my fourth post!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://devopswindows.com/posts/third-post" />
+		<id>http://devopswindows.com/posts/third-post</id>
+		<title>Third Post</title>
+		<updated>2016-01-01T00:00:00Z</updated>
+		<content>&lt;p&gt;This is my third post!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;This is my third post!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://devopswindows.com/posts/first-post" />
+		<id>http://devopswindows.com/posts/first-post</id>
+		<title>First Post</title>
+		<updated>2016-01-01T00:00:00Z</updated>
+		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;This is my first post!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://devopswindows.com/posts/second-post" />
+		<id>http://devopswindows.com/posts/second-post</id>
+		<title>Second Post</title>
+		<updated>2016-01-01T00:00:00Z</updated>
+		<content>&lt;p&gt;This is my second post!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;This is my second post!&lt;/p&gt;</summary>
+	</entry>
+</feed>
