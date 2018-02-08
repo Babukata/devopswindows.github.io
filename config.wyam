@@ -1,0 +1,8 @@
+#recipe Blog
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "devopswindows.com";
+Settings[BlogKeys.Title] = "DevOps Windows";
+Settings[BlogKeys.Description] = "Welcome!";
+
+// Add any pipeline customizations here
